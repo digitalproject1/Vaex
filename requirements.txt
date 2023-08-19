@@ -4,4 +4,4 @@ streamlit==1.10.0
 numpy==1.19.5
 plotly==5.6.0
 pip==23.2.1
-worldcloud
+worldcloud==1.9.2
